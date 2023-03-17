@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 matplotlib
 numpy
 pandas
 seaborn
 scikit-learn
 opencv-python
+=======
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow-cpu
+>>>>>>> ac24020e4521bc3a3ee1f3bc06a1a031aa5293f6
