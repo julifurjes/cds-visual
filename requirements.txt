@@ -1,8 +1,8 @@
 matplotlib
 numpy
-pandas
-seaborn
+pandas 
+tqdm
+matplotlib
 scikit-learn
-opencv-python
 tensorflow-cpu
-
+tensorflow-hub
